@@ -1,8 +1,6 @@
 ---
 title: "Hello World"
 date: 2024-07-26 01:29:00 AM -500
-categories: [Development]
-tags: [Start]
 ---
 
 # Hello World
