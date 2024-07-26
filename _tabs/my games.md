@@ -4,8 +4,6 @@ icon: fas fa-gamepad
 order: 2
 ---
 
-<div align="center"><h1>My Games</h1></div>
-
 ## Untitled Ghost Game
 [![UGGImage](https://store.steampowered.com/gfxproxy/betagfx/apps/2356460/extras/items.gif?t=1694552974)](https://store.steampowered.com/app/2356460/Untitled_Ghost_Game/)
 > <sup>Try clicking gif above.</sup>
