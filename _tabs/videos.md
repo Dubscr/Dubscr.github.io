@@ -1,3 +1,8 @@
+---
+layout: page
+icon: fas fa-play
+order: 4
+---
 <iframe width="100%" height="500px" src="https://www.youtube.com/embed/PdqkI6NQcvQ" title="Turning MUSIC Into a GAME..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
